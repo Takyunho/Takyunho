@@ -1,16 +1,95 @@
-## Hi there 👋
+<!-- ===== 헤더 배너 (물결 효과) ===== -->
+<div align="center">
 
-<!--
-**Takyunho/Takyunho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hello%2C%20I'm%20Takyunho%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn" />
 
-Here are some ideas to get you started:
+<!-- ===== 타이핑 애니메이션 ===== -->
+<a href="https://github.com/Takyunho">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6C8EBF&center=true&vCenter=true&width=500&lines=Frontend+Developer;%EC%82%AC%EC%9A%A9%EC%9E%90+%EA%B2%BD%ED%97%98%EC%9D%84+%EA%B3%A0%EB%AF%BC%ED%95%98%EB%8A%94+%EA%B0%9C%EB%B0%9C%EC%9E%90;%EA%B9%94%EB%81%94%ED%95%9C+%EC%BD%94%EB%93%9C%EB%A5%BC+%EC%A7%80%ED%96%A5%ED%95%A9%EB%8B%88%EB%8B%A4" alt="Typing SVG" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+<br/>
+
+<!-- ===== 자기소개 ===== -->
+## 🙋‍♂️ 자기소개(About Me)
+
+> 사용자 경험을 중요하게 생각하는 프론트엔드 개발자입니다.
+
+- 🏗️ 언제나 확장 가능한 구조를 고민하고, 더 나은 설계를 위해 노력합니다.
+- ⚡ 실시간으로 반응하는 인터랙티브한 UI를 만드는 것을 좋아합니다.
+
+<br/>
+
+<!-- ===== 기술 스택 배지 ===== -->
+## 🛠️ 기술 스택(Tech Stack)
+
+#### 언어(Languages)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+#### 프레임워크 & 라이브러리(Frameworks & Libraries)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logoColor=white)
+![xy-flow](https://img.shields.io/badge/xy--flow-FF0072?style=for-the-badge&logoColor=white)
+
+#### 스타일링(Styling)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![CSS Modules](https://img.shields.io/badge/CSS_Modules-000000?style=for-the-badge&logo=cssmodules&logoColor=white)
+
+#### 도구(Tools)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
+![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black)
+![pnpm](https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white)
+
+<br/>
+
+<!-- ===== GitHub 통계 카드 ===== -->
+## 📊 깃허브 통계(GitHub Stats)
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Takyunho&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Takyunho&layout=compact&theme=tokyonight&langs_count=8" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Takyunho&theme=tokyonight" />
+
+</div>
+
+<br/>
+
+<!-- ===== 프로젝트 ===== -->
+## 🚀 프로젝트(Projects)
+
+| 프로젝트 | 설명 | 기술 스택 |
+| :--- | :--- | :--- |
+| **[ProtectGO AI Enterprise](https://idb.ai/products/protect-go-ai)** | 현장의 CCTV·센서·IoT 장비를 연결해 AI로 위험 상황을 실시간 탐지·관제하고, 안전 점검과 통계까지 관리하는 산업 안전 관제 플랫폼 (실시간 관제에 특화된 경량 버전 Mini도 함께 개발) | React, JavaScript |
+| **[IDB 홈페이지](https://idb.ai/)** | IDB 공식 홈페이지 웹사이트 구현 | Next.js, TypeScript, Tailwind CSS |
+
+<br/>
+
+<!-- ===== 연락처 ===== -->
+## 📫 연락처(Contact)
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/tyh1819@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tyh1819@gmail.com)
+
+</div>
+
+<br/>
+
+<!-- ===== 하단 배너 ===== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
