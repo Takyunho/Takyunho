@@ -54,22 +54,6 @@
 
 <br/>
 
-<!-- ===== GitHub 통계 카드 ===== -->
-## 📊 깃허브 통계(GitHub Stats)
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Takyunho&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Takyunho&layout=compact&theme=tokyonight&langs_count=8" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=Takyunho&theme=tokyonight" />
-
-</div>
-
-<br/>
-
 <!-- ===== 프로젝트 ===== -->
 ## 🚀 프로젝트(Projects)
 
@@ -86,6 +70,15 @@
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/tyh1819@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tyh1819@gmail.com)
+
+</div>
+
+<br/>
+
+<!-- ===== GitHub 활동 기록(Streak) ===== -->
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=Takyunho&theme=tokyonight" />
 
 </div>
 
