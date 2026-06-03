@@ -13,7 +13,7 @@
 <br/>
 
 <!-- ===== 자기소개 ===== -->
-## 🙋‍♂️ 자기소개(About Me)
+## 👋 자기소개(About Me)
 
 > 사용자 경험을 중요하게 생각하는 프론트엔드 개발자입니다.
 
@@ -23,7 +23,7 @@
 <br/>
 
 <!-- ===== 기술 스택 배지 ===== -->
-## 🛠️ 기술 스택(Tech Stack)
+## 💻 기술 스택(Tech Stack)
 
 #### 언어(Languages)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -64,7 +64,7 @@
 <br/>
 
 <!-- ===== 프로젝트 ===== -->
-## 🚀 프로젝트(Projects)
+## 📂 프로젝트(Projects)
 
 | 프로젝트 | 설명 | 기술 스택 |
 | :--- | :--- | :--- |
@@ -84,7 +84,9 @@
 
 <br/>
 
-<!-- ===== GitHub 활동 기록(Streak) ===== -->
+<!-- ===== GitHub 활동(Activity) ===== -->
+## 🔥 깃허브 활동(GitHub Activity)
+
 <div align="center">
 
 <img src="https://streak-stats.demolab.com/?user=Takyunho&theme=tokyonight" />
