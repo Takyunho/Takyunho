@@ -5,7 +5,7 @@
 
 <!-- ===== 타이핑 애니메이션 ===== -->
 <a href="https://github.com/Takyunho">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6C8EBF&center=true&vCenter=true&width=500&lines=Frontend+Developer;%EC%82%AC%EC%9A%A9%EC%9E%90+%EA%B2%BD%ED%97%98%EC%9D%84+%EA%B3%A0%EB%AF%BC%ED%95%98%EB%8A%94+%EA%B0%9C%EB%B0%9C%EC%9E%90;%EA%B9%94%EB%81%94%ED%95%9C+%EC%BD%94%EB%93%9C%EB%A5%BC+%EC%A7%80%ED%96%A5%ED%95%A9%EB%8B%88%EB%8B%A4" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6C8EBF&center=true&vCenter=true&width=500&lines=Frontend+Developer;%EC%82%AC%EC%9A%A9%EC%9E%90+%EA%B2%BD%ED%97%98%EC%9D%84+%EA%B3%A0%EB%AF%BC%ED%95%98%EB%8A%94+%EA%B0%9C%EB%B0%9C%EC%9E%90;%EC%82%AC%EC%9A%A9%EC%9E%90%EA%B0%80+%EB%A8%B8%EB%AC%B4%EB%A5%B4%EA%B3%A0+%EC%8B%B6%EC%9D%80+%ED%99%94%EB%A9%B4%EC%9D%84+%EB%A7%8C%EB%93%AD%EB%8B%88%EB%8B%A4." alt="Typing SVG" />
 </a>
 
 </div>
@@ -64,7 +64,7 @@
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Takyunho&theme=tokyonight" />
+<img src="https://streak-stats.demolab.com/?user=Takyunho&theme=tokyonight" />
 
 </div>
 
