@@ -8,6 +8,13 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6C8EBF&center=true&vCenter=true&width=500&lines=Frontend+Developer;%EC%82%AC%EC%9A%A9%EC%9E%90+%EA%B2%BD%ED%97%98%EC%9D%84+%EA%B3%A0%EB%AF%BC%ED%95%98%EB%8A%94+%EA%B0%9C%EB%B0%9C%EC%9E%90;%EC%82%AC%EC%9A%A9%EC%9E%90%EA%B0%80+%EB%A8%B8%EB%AC%B4%EB%A5%B4%EA%B3%A0+%EC%8B%B6%EC%9D%80+%ED%99%94%EB%A9%B4%EC%9D%84+%EB%A7%8C%EB%93%AD%EB%8B%88%EB%8B%A4." alt="Typing SVG" />
 </a>
 
+<br/>
+
+<!-- ===== 포트폴리오 바로가기 ===== -->
+<a href="https://yunho-dev.vercel.app">
+  <img src="https://img.shields.io/badge/🌐_Portfolio-yunho--dev.vercel.app-6C8EBF?style=for-the-badge" alt="Portfolio" />
+</a>
+
 </div>
 
 <br/>
@@ -51,6 +58,7 @@
 
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://yunho-dev.vercel.app)
 [![Gmail](https://img.shields.io/badge/tyh1819@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tyh1819@gmail.com)
 
 </div>
